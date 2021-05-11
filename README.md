@@ -1,14 +1,16 @@
-<h1>WELCOME</h1>
+<h1>Konnichiwa!</h1>
 <img align="right" src="https://bestanimations.com/Nature/Flora/beautiful-flower-animated-gif8.gif">
 <source src="https://giant.gfycat.com/AjarTallGrackle.mp4" type="video/mp4">
 
-- 👋 Hi, I’m @StefxM
+
+
+- 👋 I’m Stephanie!
+
+- 🌱 I’m currently working on this README
+<!--
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
 StefxM/StefxM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
