@@ -2,7 +2,7 @@
 <img align="right" src="https://bestanimations.com/Nature/Flora/beautiful-flower-animated-gif8.gif">
 <source src="https://giant.gfycat.com/AjarTallGrackle.mp4" type="video/mp4">
 
-- I am a 30 year old mommy of two from Ny studying to become a full stack developer. I'm currently looking for opportunities and I love to learn and contribute in all ways possible. I 💙 animation, movies, music, drawing, painting and dancing with my kiddos ✨
+- I am a 30 year old mommy of two from Ny. Officially a lambda school graduate as a Full stack developer and I'm currently looking for opportunities. I love to learn and contribute in all ways possible. I 💙 animation, movies, music, drawing, painting and dancing with my kiddos ✨
 
 - 📚 Currently learning python
 
