@@ -1,10 +1,10 @@
 <h1> 👋 Konnichiwa!</h1>
 
 
-- I am a 30 year old mommy of two from Ny. Officially a lambda school graduate as a Full stack developer and I'm currently looking for opportunities. I love to learn and contribute in all ways possible. I 💙 animation, movies, music, drawing, painting and dancing with my kiddos ✨ 
+- I am a Peruvian/Japanese mommy of two from NY. Currently in CT, officially a Bloomtech school(formerly known as Lambda school) graduate as a Full stack developer and I'm currently looking for opportunities. I love to learn and contribute in all ways possible. I 💙 animation, movies, music, drawing, painting and dancing with my kiddos ✨ 
 
 
-- 📚 Currently learning python
+- 📚 Currently refreshing on my Node.js and SQL
 
 ### Languages and Tools 🛠 Conhecimentos  
 
